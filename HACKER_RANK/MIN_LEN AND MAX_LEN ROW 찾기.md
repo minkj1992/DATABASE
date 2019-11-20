@@ -1,3 +1,5 @@
+# MIN_LEN AND MAX_LEN ROW 찾기
+
 > https://www.hackerrank.com/challenges/weather-observation-station-5/problem?h_r=next-challenge&h_v=zen
 
 ```SQL
